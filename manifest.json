@@ -1,0 +1,12 @@
+{
+  "owner": "local",
+  "name": "calculator",
+  "type": "plugin",
+  "runner": "node",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "icon": "thumbnail.png",
+  "license": "MIT",
+  "description": "Arbitrary-precision math, unit conversions, and expression evaluation powered by mathjs. The model can calculate, convert units, and solve equations accurately.",
+  "categories": ["tools"]
+}
